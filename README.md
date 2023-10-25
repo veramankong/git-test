@@ -1,3 +1,3 @@
 # git-test
-My frist GutHub repo!
+My first GutHub repo!
 Hello Odin!
